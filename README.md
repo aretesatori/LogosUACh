@@ -1,4 +1,4 @@
-# Logos | Universidad Austral de Chile
+# Logos • Universidad Austral de Chile
 
 Este es un repositorio no oficial con logos recopilados de diversos departamentos de la Universidad Austral de Chile (UACh).
 
@@ -10,46 +10,49 @@ Acerca de:
 
 * Cada unidad contiene su propio directorio con logos en formato:
 
-	1. Color
-	2. Blanco
-	3. Negro
-	4. Fondo blanco
-	5. Fondo transparente
+1. Color
+2. Blanco
+3. Negro
+4. Fondo blanco
+5. Fondo transparente
 
 * Cada logo contiene su respectivo color Pantone y RGB como referencia. Esa información está ubicada al interior de cada directorio.
 
 * En cuanto a las dimensiones de cada logo, existen 3 variantes:
 
-	1. Logo pequeño con ancho de 512 px.
-	2. Logo mediano con ancho de 1024 px.
-	3. Logo grande con ancho de 2048 px.
+1. Logo pequeño con ancho de 512 px.
+2. Logo mediano con ancho de 1024 px.
+3. Logo grande con ancho de 2048 px.
 
 * Los logos se encuentran en formato PNG.<!--, SVG y EPS.-->
 
 * Al final de este documento se encuentra la fuente de algunas gráficas originales obtenidas.
 
 ---
-## Importante
+# **Importante**
 
-**Los derechos de autoría de cada logo corresponden a sus respectivos autores. Yo no soy el responsable por el diseño de los logos de cada departamento.**
+**Los derechos de autoría de cada logo corresponden a sus respectivos autores. Yo no soy el responsable por el diseño de los logos de cada departamento.**  
 
-Fue necesario vectorizar algunos logos por un tema de calidad, sin embargo, se ha hecho todo lo posible para respetar los diseños y los colores originales de cada logo.
+Se ha realizado la vectorización de algunos logos para mejorar la calidad, asimismo se ha asegurado en todo momento el respeto por los diseños y colores originales de cada uno.  
+
+**Solicito encarecidamente que todos utilicen estos logos de manera respetuosa y ética, reconociendo la propiedad intelectual de sus autores y evitando cualquier uso que pueda perjudicar la imagen de los departamentos.**  
 
 ---
-## Consideraciones
+# Consideraciones
 
-Cualquier aporte es muy bienvenido. Puede hacerlo directamente por GitHub o a mi correo electrónico: arete.poffart@alumnos.uach.cl  
-Cualquier solicitud de cambio, corrección, o solicitud de eliminación de logos también es bienvenido.
+Cualquier aporte es muy bienvenido. Puede hacerlo directamente a través de GitHub o a mi correo electrónico: arete.poffart@alumnos.uach.cl
 
-Espero los logos presentados a continuación sean de aporte para la comunidad.
-<br>
+Se reciben solicitudes para realizar cambios, correcciones o eliminaciones de los diseños presentes en este repositorio.
+
+Espero que los logos que se presentan a continuación sean de aporte para la comunidad.
 
 Cordialmente,
 
-Areté S. Poffart
+> **_Areté S. Poffart_**  
+> _Estudiante de Ingeniería Civil Electrónica_
 
 ---
-## Índice
+# Índice
 
 * Universidad Austral de Chile
 
@@ -138,11 +141,11 @@ Areté S. Poffart
 * Centro de Estudios Científicos (CECs)-->
 
 ---
-## Logos
+# Logos
 
 
 ---
-## Listado de referencias
+# Listado de referencias
 
 * Humanidades UACh (https://www.flickr.com/photos/194257994@N05/)
 
