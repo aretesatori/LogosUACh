@@ -6,27 +6,29 @@ El propósito de este repositorio es facilitar el acceso de logos y gráficas in
 
 Acerca de:
 
-* La estructura del repositorio está conformada por directorios, en el que cada directorio contiene el nombre de la unidad respectiva y en su interior los logos. **Ejemplo**: `Logos/Facultad_Ciencias_Ingenieria/`
+* La estructura del repositorio está conformada por directorios, en el que cada directorio contiene el nombre de la unidad respectiva y en su interior los logos. 
+
+**Ejemplo**: `Logos/Facultad_Ciencias_Ingenieria/`
 
 * Cada unidad contiene su propio directorio con logos en formato:
 
-1. Color
-2. Blanco
-3. Negro
-4. Fondo blanco
-5. Fondo transparente
+	1. Color
+	2. Blanco
+	3. Negro
+	<!--4. Fondo blanco
+	5. Fondo transparente-->
 
 * Cada logo contiene su respectivo color Pantone y RGB como referencia. Esa información está ubicada al interior de cada directorio.
 
 * En cuanto a las dimensiones de cada logo, existen 3 variantes:
 
-1. Logo pequeño con ancho de 512 px.
-2. Logo mediano con ancho de 1024 px.
-3. Logo grande con ancho de 2048 px.
+	1. Logo pequeño con ancho de 512 px.
+	2. Logo mediano con ancho de 1024 px.
+	3. Logo grande con ancho de 2048 px.
 
 * Los logos se encuentran en formato PNG.<!--, SVG y EPS.-->
 
-* Al final de este documento se encuentra la fuente de algunas gráficas originales obtenidas.
+* Al final de este README se encuentra la fuente (links) de algunas gráficas originales obtenidas.
 
 ---
 # **Importante**
@@ -35,24 +37,27 @@ Acerca de:
 
 Se ha realizado la vectorización de algunos logos para mejorar la calidad, asimismo se ha asegurado en todo momento el respeto por los diseños y colores originales de cada uno.  
 
-**Solicito encarecidamente que todos utilicen estos logos de manera respetuosa y ética, reconociendo la propiedad intelectual de sus autores y evitando cualquier uso que pueda perjudicar la imagen de los departamentos.**  
+**Solicito encarecidamente que todos utilicen estos logos de manera respetuosa y ética, reconociendo la propiedad intelectual de sus autores y evitando cualquier uso que pueda perjudicar la imagen de los departamentos o de la Universidad Austral de Chile.**  
 
 ---
 # Consideraciones
 
-Cualquier aporte es muy bienvenido. Puede hacerlo directamente a través de GitHub o a mi correo electrónico: arete.poffart@alumnos.uach.cl
+Cualquier aporte es muy bienvenido. Puede hacerlo directamente a través de [GitHub](https://github.com/aretesatori/Logos-UACh/issues) o a mi correo electrónico: arete.poffart@alumnos.uach.cl
 
-Se reciben solicitudes para realizar cambios, correcciones o eliminaciones de los diseños presentes en este repositorio.
+Se reciben solicitudes para realizar cambios, corrección o eliminación de los diseños presentes en este repositorio.
 
 Espero que los logos que se presentan a continuación sean de aporte para la comunidad.
 
 Cordialmente,
 
-> **_Areté S. Poffart_**  
-> _Estudiante de Ingeniería Civil Electrónica_
+> **_Areté S. Poffart de Oliveira_**  
+> _Estudiante de Ingeniería Civil Electrónica_  
+> _Universidad Austral de Chile_
 
 ---
 # Índice
+
+Para visualizar las imágenes, basta con hacer clic y luego clic derecho para guardarlas.
 
 * Universidad Austral de Chile
 
@@ -60,6 +65,7 @@ Cordialmente,
 
 * Logo Aniversario
 
+* Logo Acreditación
 
 * Facultad de Ciencias de la Ingeniería
 
@@ -67,8 +73,8 @@ Cordialmente,
 	* Ingeniería Civil en Obras Civiles
 	* Ingeniería Civil Mecánica
 	* Ingeniería Civil en Informática
-	* Ingeniería Civil Industrial (Valdivia)
-	* Ingeniería Civil Industrial (Puerto Montt)
+	* Ingeniería Civil Industrial <!--(Valdivia)-->
+	<!--* Ingeniería Civil Industrial (Puerto Montt)-->
 	* Ingeniería Naval
 	* Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería)
 
@@ -79,11 +85,12 @@ Cordialmente,
 	* Instituto de Ciencias Navales y Marítimas
 	* Instituto de Electricidad y Electrónica
 
-	* CAF Miraflores
 	* LeufüLab
+<!--	
+	* CAF Miraflores
 	* Audio Mining Laboratory (AuMiLab)
 	* InnovING2030
-	* Centro de Innovación 14K
+	* Centro de Innovación 14K-->
 
 <!--* Facultad de Ciencias
 	* Instituto de Bioquímica y Microbiología
@@ -141,12 +148,37 @@ Cordialmente,
 * Centro de Estudios Científicos (CECs)-->
 
 ---
-# Logos
+# Gráficas
 
+## Universidad Austral de Chile
+
+## Facultad de Ciencias de la Ingeniería
+
+* Logo Facultad de Ciencias de la Ingeniería • Color &nbsp;
+	<img src="Logos/Facultad_Ciencias_Ingenieria/FCI-Color-Fondo-Transparente.png" src="Logo Facultad de Ciencias de la Ingeniería • Color" width="100%" />
+
+* Logo Facultad de Ciencias de la Ingeniería • Blanco &nbsp;
+	<img src="Logos/Facultad_Ciencias_Ingenieria/FCI-Blanco-Fondo-Transparente.png" src="Logo Facultad de Ciencias de la Ingeniería • Negro" width="100%" />
+
+* Logo Facultad de Ciencias de la Ingeniería • Negro &nbsp;
+	<img src="Logos/Facultad_Ciencias_Ingenieria/FCI-Negro-Fondo-Transparente.png" src="Logo Facultad de Ciencias de la Ingeniería • Blanco" width="100%" />
+
+* Logo Facultad de Ciencias de la Ingeniería (Cuadrado) • **Pantone 320C** &nbsp;
+	<img src="Logos/Facultad_Ciencias_Ingenieria/FCI-Cuadrado-Fondo-Pantone320C.png" src="Logo Facultad de Ciencias de la Ingeniería • Color Pantone 320C" width="100%" />
+
+* Logo Facultad de Ciencias de la Ingeniería (Cuadrado) • **Pantone Orange021C** &nbsp;
+	<img src="Logos/Facultad_Ciencias_Ingenieria/FCI-Cuadrado-Fondo-PantoneOrange021C.png" src="Logo Facultad de Ciencias de la Ingeniería • Color Pantone Orange021C" width="100%" />
+
+## Admisión UACh
 
 ---
-# Listado de referencias
+# Referencias
+
+* Gráfica Institucional, Rectoría (https://www.uach.cl/organizacion/rectoria/direccion-de-comunicaciones/grafica-institucional)
 
 * Humanidades UACh (https://www.flickr.com/photos/194257994@N05/)
 
-* Ingeniería UACh (https://assets.adobe.com/public/9d9c75aa-8ed8-4789-7871-72501b6f35b5#)
+* Ingeniería UACh (https://assets.adobe.com/public/9d9c75aa-8ed8-4789-7871-72501b6f35b5)
+
+* Derecho UACh - Imagen Corporativa (https://derecho.uach.cl/index.php/vinculacion-con-el-medio/imagencorporativa.html)
+
