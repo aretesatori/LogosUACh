@@ -6,9 +6,9 @@ Este es un repositorio no oficial con logos recopilados de diversos departamento
 
 Actualmente, en la Universidad Austral de Chile no existe una plataforma o medio que facilite el acceso a los diseños de cada departamento existente. Cada facultad, instituto o escuela, de manera independiente, proporciona logos y gráficas a estudiantes, académicos, investigadores, entre otros. Sin embargo, en muchas de las veces los logos que se entregan no corresponden a las versiones originales o no están en buena resolución, ya que a menudo no se prioriza la calidad de los mismos.
 
-Mi propuesta ante esta problemática es que los logos presentes en este repositorio estén disponibles para toda la comunidad, de manera que puedan ser utilizados según las necesidades académicas, ya sea en pósters, afiches, informes, presentaciones de diapositivas, entre otros.
+Mi propuesta ante esta problemática es que los logos presentes en este repositorio estén disponibles para toda la comunidad, de manera que puedan ser utilizados según las necesidades académicas, ya sea en pósters, afiches, informes, proyectos de título, presentaciones de diapositivas, entre otros.
 
-En resumen: **El propósito de este repositorio es facilitar el acceso a logos y gráficas institucionales en excelente calidad a toda la comunidad universitaria**.
+**El propósito de este repositorio es facilitar el acceso a logos y gráficas institucionales en excelente calidad a toda la comunidad universitaria**.
 
 <!---
 # Estructura
@@ -53,7 +53,7 @@ En resumen: **El propósito de este repositorio es facilitar el acceso a logos y
 **Los derechos de autoría de cada logo corresponden a sus respectivos autores. Yo no soy el responsable por el diseño de los logos de cada departamento**.  
 
 Se ha llevado a cabo la vectorización de algunos logos para mejorar su calidad. Además, se han realizado modificaciones gráficas en ciertos elementos, pero en todo momento preservando los diseños y colores originales.  
-Los cambios y variantes existentes de cada logo en este repositorio no tienen como finalidad afectar la marca del logo original, sino proporcionar alternativas que puedan adaptarse a los distintos contextos y necesidades de los miembros de la comunidad.  
+Los cambios y variantes existentes de cada logo en este repositorio no tienen como finalidad afectar la marca original, sino proporcionar alternativas que puedan adaptarse a los distintos contextos y necesidades de los miembros de la comunidad.  
 
 **Solicito encarecidamente que todos utilicen estos logos de manera respetuosa y ética, reconociendo la propiedad intelectual de los respectivos autores y evitando cualquier uso que pueda perjudicar la imagen de los departamentos o de la propia Universidad Austral de Chile**.  
 
@@ -83,7 +83,7 @@ Cordialmente,
 
 * Logo Acreditación
 
-* [Facultad de Ciencias de la Ingeniería](#facultad-de-ciencias-de-la-ingeniería)
+* [Facultad de Ciencias de la Ingeniería](#facultad-de-ciencias-de-la-ingeniería-fci)
 
 	* Ingeniería Civil Electrónica
 	* Ingeniería Civil en Obras Civiles
@@ -178,11 +178,11 @@ Link: https://ingenieria.uach.cl/
 
 ### Colores
 
-Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que se muestran a continuación:
+Los colores oficiales utilizados por la Facultad de Ciencias de la Ingeniería son los que se muestran a continuación:
 
 <p align="center">
-	<img src="Pantone/Pantone_320-C.png" src="Vista previa • Pantone 320 C" width="20%" />
-	<img src="Pantone/Pantone_Orange-021-C.png" src="Vista previa • Pantone Orange 021 C" width="20%" />
+	<img src="Pantone/Pantone_Orange-021-C.png" src="Vista previa • Pantone Orange 021 C" width="40%" />
+	<img src="Pantone/Pantone_320-C.png" src="Vista previa • Pantone 320 C" width="40%" />
 </p>
 
 <div align="center">
@@ -196,22 +196,28 @@ Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que s
 		</thead>
 		<tbody>
 			<tr>
-				<td><strong>320 C</strong></td>
-				<td>#009CA6</td>
-				<td>rgb(0, 156, 166)</td>
+				<td><strong>Orange 021 C</strong></td>
+				<td><strong>#FE5000</strong></td>
+				<td>rgb(254, 80, 0)</td>
 			</tr>
 			<tr>
-				<td><strong>Orange 021 C</strong></td>
-				<td>#FE5000</td>
-				<td>rgb(254, 80, 0)</td>
+				<td><strong>320 C</strong></td>
+				<td><strong>#009CA6</strong></td>
+				<td>rgb(0, 156, 166)</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-> **Fuente**:  
-> Colore PANTONE® 320 C (https://www.numerosamente.it/pantone/320-C)  
+> **Referencias**:  
 > Colore PANTONE® Orange 021 C (https://www.numerosamente.it/pantone/Orange-021-C)  
+> Colore PANTONE® 320 C (https://www.numerosamente.it/pantone/320-C)  
+
+### Fuentes
+
+La Facultad de Ciencias de la Ingeniería utiliza en su logotipo la fuente: **Myriad Pro Regular**.  
+Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_" utilizan la fuente **Garamond Condensed Light Regular**.  
+
 
 ### Logo Oficial: Facultad de Ciencias de la Ingeniería • Color (Texto Negro) <br>
 
@@ -258,7 +264,7 @@ Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que s
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-Pantone320C_2048x766.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone 320 C" width="90%" />
 </p>
 
-### Logo Oficial: Facultad de Ciencias de la Ingeniería • Orange 021 C <br>
+### Logo Oficial: Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C <br>
 
 **Dimensiones**: 2048 x 766  
 **Formato**: PNG (fondo transparente)  
@@ -266,6 +272,43 @@ Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que s
 <p align="center">
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-PantoneOrange021C_2048x766.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C" width="90%" />
 </p>
+
+### Logo Oficial Outline: Facultad de Ciencias de la Ingeniería • Blanco <br>
+
+**Dimensiones**: 2048 x 766  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-Outline-Blanco_2048x766.png" src="Logo Facultad de Ciencias de la Ingeniería • Blanco" width="90%" />
+</p>
+
+### Logo Oficial Outline: Facultad de Ciencias de la Ingeniería • Negro <br>
+
+**Dimensiones**: 2048 x 766  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-Outline-Negro_2048x766.png" src="Logo Facultad de Ciencias de la Ingeniería • Negro" width="90%" />
+</p>
+
+### Logo Oficial Outline: Facultad de Ciencias de la Ingeniería • Pantone 320 C <br>
+
+**Dimensiones**: 2048 x 766  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-Outline-Pantone320C_2048x766.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone 320 C" width="90%" />
+</p>
+
+### Logo Oficial Outline: Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C <br>
+
+**Dimensiones**: 2048 x 766  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-Outline-PantoneOrange021C_2048x766.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C" width="90%" />
+</p>
+
 
 
 ### Logo Horizontal: Facultad de Ciencias de la Ingeniería • Color (Texto Negro) <br>
@@ -304,6 +347,62 @@ Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que s
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Negro_2048x413.png" src="Logo Facultad de Ciencias de la Ingeniería • Negro" width="100%" />
 </p>
 
+### Logo Horizontal: Facultad de Ciencias de la Ingeniería • Pantone 320 C <br>
+
+**Dimensiones**: 2048 x 412  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Pantone320C_2048x412.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone 320 C" width="100%" />
+</p>
+
+### Logo Horizontal: Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C <br>
+
+**Dimensiones**: 2048 x 412  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-PantoneOrange021C_2048x412.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C" width="100%" />
+</p>
+
+
+### Logo Horizontal Outline: Facultad de Ciencias de la Ingeniería • Blanco <br>
+
+**Dimensiones**: 2048 x 412  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Outline-Blanco_2048x412.png" src="Logo Facultad de Ciencias de la Ingeniería • Blanco" width="100%" />
+</p>
+
+### Logo Horizontal Outline: Facultad de Ciencias de la Ingeniería • Negro <br>
+
+**Dimensiones**: 2048 x 412  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Outline-Negro_2048x412.png" src="Logo Facultad de Ciencias de la Ingeniería • Negro" width="100%" />
+</p>
+
+### Logo Horizontal Outline: Facultad de Ciencias de la Ingeniería • Pantone 320 C <br>
+
+**Dimensiones**: 2048 x 412  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Outline-Pantone320C_2048x412.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone 320 C" width="100%" />
+</p>
+
+### Logo Horizontal Outline: Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C <br>
+
+**Dimensiones**: 2048 x 412  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Outline-PantoneOrange021C_2048x412.png" src="Logo Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C" width="100%" />
+</p>
+
+
 
 ### Isotipo: Facultad de Ciencias de la Ingeniería • Color <br>
 
@@ -311,7 +410,7 @@ Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que s
 **Formato**: PNG (fondo transparente)  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Color_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Color" width="50%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Color_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Color" width="60%" />
 </p>
 
 ### Isotipo: Facultad de Ciencias de la Ingeniería • Blanco <br>
@@ -320,7 +419,7 @@ Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que s
 **Formato**: PNG (fondo transparente)  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Blanco_1023x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Blanco" width="50%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Blanco_1023x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Blanco" width="60%" />
 </p>
 
 ### Isotipo: Facultad de Ciencias de la Ingeniería • Negro <br>
@@ -329,38 +428,83 @@ Los colores oficiales de la Facultad de Ciencias de la Ingeniería son las que s
 **Formato**: PNG (fondo transparente)  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Negro_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Negro" width="50%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Negro_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Negro" width="60%" />
+</p>
+
+### Isotipo Outline: Facultad de Ciencias de la Ingeniería • Color <br>
+
+**Dimensiones**: 1024 x 856  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Outline-Color_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Color" width="60%" />
+</p>
+
+### Isotipo Outline: Facultad de Ciencias de la Ingeniería • Blanco <br>
+
+**Dimensiones**: 1024 x 856  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Outline-Blanco_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Blanco" width="60%" />
+</p>
+
+### Isotipo Outline: Facultad de Ciencias de la Ingeniería • Negro <br>
+
+**Dimensiones**: 1024 x 856  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Outline-Negro_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Negro" width="60%" />
+</p>
+
+### Isotipo Outline: Facultad de Ciencias de la Ingeniería • Pantone 320 C <br>
+
+**Dimensiones**: 1024 x 856  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Outline-Pantone320C_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Pantone 320 C" width="60%" />
+</p>
+
+### Isotipo Outline: Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C <br>
+
+**Dimensiones**: 1024 x 856  
+**Formato**: PNG (fondo transparente)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Isotipo-FCI-Outline-PantoneOrange021C_1024x856.png" src="Isotipo Facultad de Ciencias de la Ingeniería • Pantone Orange 021 C" width="60%" />
 </p>
 
 
-### Logo: Facultad de Ciencias de la Ingeniería (Cuadrado) • Fondo **Pantone 320 C** <br>
+### Logo: Facultad de Ciencias de la Ingeniería • Fondo **Pantone 320 C** <br>
 
 **Dimensiones**: 2048 x 2048  
 **Formato**: PNG  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-FondoPantone320C_2048x2048.png" src="Logo Facultad de Ciencias de la Ingeniería • Fondo Pantone 320 C" width="80%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-FondoPantone320C_2048x2048.png" src="Logo Facultad de Ciencias de la Ingeniería • Fondo Pantone 320 C" width="90%" />
 </p>
 
-### Logo: Facultad de Ciencias de la Ingeniería (Cuadrado) • Fondo **Pantone Orange 021 C** <br>
+### Logo: Facultad de Ciencias de la Ingeniería • Fondo **Pantone Orange 021 C** <br>
 
 **Dimensiones**: 2048 x 2048  
 **Formato**: PNG  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-FondoPantoneOrange021C_2048x2048.png" src="Logo Facultad de Ciencias de la Ingeniería • Fondo Pantone Orange 021 C" width="80%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-FondoPantoneOrange021C_2048x2048.png" src="Logo Facultad de Ciencias de la Ingeniería • Fondo Pantone Orange 021 C" width="90%" />
 </p>
 
-### Logo: Facultad de Ciencias de la Ingeniería (Cuadrado) • Fondo Negro <br>
+### Logo: Facultad de Ciencias de la Ingeniería • Fondo Negro <br>
 
 **Dimensiones**: 2048 x 2048  
 **Formato**: PNG  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-FondoNegro_2048x2048.png" src="Logo Facultad de Ciencias de la Ingeniería • Fondo Pantone Orange 021 C" width="80%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-FondoNegro_2048x2048.png" src="Logo Facultad de Ciencias de la Ingeniería • Fondo Negro" width="90%" />
 </p>
 
-## Admisión UACh
+<!--## Admisión UACh-->
 
 ## InnovING2030
 
