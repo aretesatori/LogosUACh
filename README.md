@@ -85,24 +85,27 @@ Cordialmente,
 
 * [Facultad de Ciencias de la Ingeniería](#facultad-de-ciencias-de-la-ingeniería-fci)
 
-	* Ingeniería Civil Electrónica
-	* Ingeniería Civil en Obras Civiles
-	* Ingeniería Civil Mecánica
-	* Ingeniería Civil en Informática
-	* Ingeniería Civil Industrial <!--(Valdivia)-->
-	<!--* Ingeniería Civil Industrial (Puerto Montt)-->
-	* Ingeniería Naval
-	* Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería)
+	* Carreras
+		* Ingeniería Civil Electrónica
+		* Ingeniería Civil en Obras Civiles
+		* Ingeniería Civil Mecánica
+		* Ingeniería Civil en Informática
+		* Ingeniería Civil Industrial (sede Valdivia)
+		<!--* Ingeniería Civil Industrial (Puerto Montt)-->
+		* Ingeniería Naval
+		* Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería)
 
-	* Centro de Docencia de Ciencias Básicas para Ingeniería
-	* Instituto de Acústica
-	* Instituto de Obras Civiles
-	* Instituto de Ingeniería Mecánica
-	* Instituto de Ciencias Navales y Marítimas
-	* Instituto de Electricidad y Electrónica
+	* Institutos
+		* Centro de Docencia de Ciencias Básicas para Ingeniería
+		* Instituto de Acústica
+		* Instituto de Ciencias Navales y Marítimas
+		* Instituto de Obras Civiles
+		* Instituto de Ingeniería Mecánica
+		* Instituto de Electricidad y Electrónica
 
-	* LeufüLab
 <!--	
+	* LeufüLab
+
 	* CAF Miraflores
 	* Audio Mining Laboratory (AuMiLab)
 	* InnovING2030
@@ -154,7 +157,7 @@ Cordialmente,
 * Radio UACh
 * CineClub UACh
 * Unidad de Gestión Ambiental (UGA)
-* Centro de Deporte y Recreación (CEDERE)
+* Centro de Deportes y Recreación (CEDERE)
 * Alumni UACh
 * UACh Sustentable
 * UCEA
@@ -170,19 +173,22 @@ Cordialmente,
 
 **Nota**: Todas las gráficas fueron creadas y editadas con **Adobe Illustrator CC**.
 
+**Nota**: Todas las imágenes presentes en este repositorio están guardadas en formato de color RGB, lo que significa que están desarrolladas para ser visualizadas en pantallas de dispositivos, pero no están optimizadas para impresión. **Si desea imprimir alguna de estas imágenes, se recomienda consultar a un diseñador gráfico especializado y principalmente asegurarse de trabajar con el formato de color CMYK antes de realizar cualquier tipo de impresión**.  
+
+
 ## Universidad Austral de Chile
 
 ## Facultad de Ciencias de la Ingeniería (FCI)
 
-Link: https://ingenieria.uach.cl/
+Página: https://ingenieria.uach.cl/
 
 ### Colores
 
 Los colores oficiales utilizados por la Facultad de Ciencias de la Ingeniería son los que se muestran a continuación:
 
 <p align="center">
-	<img src="Pantone/Pantone_Orange-021-C.png" src="Vista previa • Pantone Orange 021 C" width="40%" />
-	<img src="Pantone/Pantone_320-C.png" src="Vista previa • Pantone 320 C" width="40%" />
+	<img src="Pantone/Pantone_Orange-021-C.png" src="Vista previa • Pantone Orange 021 C" width="25%" />
+	<img src="Pantone/Pantone_320-C.png" src="Vista previa • Pantone 320 C" width="25%" />
 </p>
 
 <div align="center">
@@ -215,7 +221,8 @@ Los colores oficiales utilizados por la Facultad de Ciencias de la Ingeniería s
 
 ### Fuentes
 
-La Facultad de Ciencias de la Ingeniería utiliza en su logotipo la fuente: **Myriad Pro Regular**.  
+La Facultad de Ciencias de la Ingeniería utiliza en su logotipo la fuente **Myriad Pro Regular**.  
+
 Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_" utilizan la fuente **Garamond Condensed Light Regular**.  
 
 
@@ -508,7 +515,7 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 
 ## InnovING2030
 
-Link: https://ingenieria.uach.cl/innoving2030/
+Página: https://ingenieria.uach.cl/innoving2030/
 
 ---
 # Referencias
@@ -520,5 +527,7 @@ Link: https://ingenieria.uach.cl/innoving2030/
 > Ingeniería UACh (https://assets.adobe.com/public/9d9c75aa-8ed8-4789-7871-72501b6f35b5)
 
 > Derecho UACh - Imagen Corporativa (https://derecho.uach.cl/index.php/vinculacion-con-el-medio/imagencorporativa.html)
+
+> <!--Utilidades - Ingeniería Civil Industrial (https://icipm.uach.cl/utilidades/)-->
 
 > Numerosamente.it (https://www.numerosamente.it/)
