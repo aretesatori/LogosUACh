@@ -1000,12 +1000,42 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-IngNaval-Oficial-Negro_2048x1189.png" alt="Logo Ingeniería Naval • Negro" width="90%" />
 </p>
 
-#### 9. Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería)
+#### 9. Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería) 
+
+#### Logo Oficial: Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería) • Color
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-IngPlanComun-Oficial-Color.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-IngPlanComun-Oficial-Color_2048x2808.png">**Descargar PNG**</a> (2048 x 2808 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-IngPlanComun-Oficial-Color_2048x2808.png" alt="Logo Ingeniería Plan Común • Color" width="75%" />
+</p>
+
+#### Logo Oficial: Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería) • Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-IngPlanComun-Oficial-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-IngPlanComun-Oficial-Blanco_2048x2808.png">**Descargar PNG**</a> (2048 x 2808 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-IngPlanComun-Oficial-Blanco_2048x2808.png" alt="Logo Ingeniería Plan Común • Blanco" width="75%" />
+</p>
+
+#### Logo Oficial: Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería) • Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-IngPlanComun-Oficial-Negro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-IngPlanComun-Oficial-Negro_2048x2809.png">**Descargar PNG**</a> (2048 x 2809 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-IngPlanComun-Oficial-Negro_2048x2809.png" alt="Logo Ingeniería Plan Común • Negro" width="75%" />
+</p>
 
 
 ### Institutos
 
-#### Centro de Docencia de Ciencias Básicas para Ingeniería
+#### Logo Oficial: Centro de Docencia de Ciencias Básicas para Ingeniería • Color
 
 * <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-CentroDocenciaCienciasBasicasIngenieria-Oficial-Color.svg">**Descargar SVG**</a>
 
@@ -1013,6 +1043,16 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 
 <p align="center">
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Oficial-Color_2048x2051.png" alt="Logo Centro de Docencia de Ciencias Básicas para Ingeniería • Color" width="90%" />
+</p>
+
+#### Logo Horizontal: Centro de Docencia de Ciencias Básicas para Ingeniería • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro_2048x770.png">**Descargar PNG**</a> (2048 x 770 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro_2048x770.png" alt="Logo Horizontal • Centro de Docencia de Ciencias Básicas para Ingeniería • Color" width="90%" />
 </p>
 
 <!--## Admisión UACh
