@@ -72,7 +72,7 @@ Espero que los logos que se presentan a continuación sean de aporte para la com
 
 Cordialmente,
 
-> **_Areté S. Poffart de Oliveira_**  
+> **_Areté Satori Poffart de Oliveira_**  
 > _Estudiante de Ing. Civil Electrónica_  
 > _Universidad Austral de Chile_
 
@@ -220,9 +220,7 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 
 * <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Isotipo-UACh-Color.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Isotipo-UACh-Color_1024x1238.png">**Descargar PNG**</a>  (1024 x 1238 px)
-
-<p>Vista previa:</p>
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Isotipo-UACh-Color_1024x1238.png">**Descargar PNG**</a> (1024 x 1238 px)  
 
 <p align="center">
 	<img src="Logos/UACh/PNG/Isotipo-UACh-Color_1024x1238.png" alt="Isotipo Universidad Austral de Chile • Color" width="60%" />
@@ -230,12 +228,9 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 
 ### Isotipo: Universidad Austral de Chile • Blanco
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/">**Descargar SVG**</a>
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Isotipo-UACh-Blanco.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/">**Descargar PNG**</a>  
-
-**Dimensiones**: 1024 x 1237 px  
-**Formato**: PNG (fondo transparente)  
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Isotipo-UACh-Blanco_1024x1237.png">**Descargar PNG**</a> (1024 x 1237 px)  
 
 <p align="center">
 	<img src="Logos/UACh/PNG/Isotipo-UACh-Blanco_1024x1237.png" alt="Isotipo Universidad Austral de Chile • Blanco" width="60%" />
@@ -243,12 +238,9 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 
 ### Isotipo: Universidad Austral de Chile • Negro
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/">**Descargar SVG**</a>
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Isotipo-UACh-Negro.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/">**Descargar PNG**</a>  
-
-**Dimensiones**: 1024 x 1237 px  
-**Formato**: PNG (fondo transparente)  
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Isotipo-UACh-Negro_1024x1237.png">**Descargar PNG**</a> (1024 x 1237 px)  
 
 <p align="center">
 	<img src="Logos/UACh/PNG/Isotipo-UACh-Negro_1024x1237.png" alt="Isotipo Universidad Austral de Chile • Negro" width="60%" />
@@ -463,12 +455,12 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 
 ### Logo Horizontal: Facultad de Ciencias de la Ingeniería • Pantone 320 C
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-FCI-Horizontal-Negro.svg">**Descargar SVG**</a>
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-FCI-Horizontal-Pantone320C.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Negro_2048x412.png">**Descargar PNG**</a>  (2048 x 412 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Pantone320C_2048x413.png">**Descargar PNG**</a>  (2048 x 413 px)  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Negro_2048x412.png" alt="Logo Facultad de Ciencias de la Ingeniería • Pantone 320 C" width="100%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Horizontal-Pantone320C_2048x413.png" alt="Logo Facultad de Ciencias de la Ingeniería • Pantone 320 C" width="100%" />
 </p>
 
 
@@ -1044,6 +1036,6 @@ Página: [https://ingenieria.uach.cl/innoving2030/](https://ingenieria.uach.cl/i
 
 > Derecho UACh - Imagen Corporativa (https://derecho.uach.cl/index.php/vinculacion-con-el-medio/imagencorporativa.html)
 
-<!-- > Utilidades - Ingeniería Civil Industrial (https://icipm.uach.cl/utilidades/)-->
+<!-- Utilidades - Ingeniería Civil Industrial (https://icipm.uach.cl/utilidades/) -->
 
 > Numerosamente.it (https://www.numerosamente.it/)
