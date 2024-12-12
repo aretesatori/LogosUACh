@@ -216,6 +216,117 @@ Los colores oficiales utilizados en el isotipo de la Universidad Austral de Chil
 
 La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garamond Condensed**.  
 
+
+### Logo Oficial: Universidad Austral de Chile • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Principal-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Principal-Color-TextoNegro_2048x1176.png">**Descargar PNG**</a> (2048 x 1176 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Principal-Color-TextoNegro_2048x1176.png" alt="Logo Universidad Austral de Chile • Color" width="90%" />
+</p>
+
+
+### Logo Oficial: Universidad Austral de Chile • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Principal-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Principal-Color-TextoBlanco_2048x1176.png">**Descargar PNG**</a> (2048 x 1176 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Principal-Color-TextoBlanco_2048x1176.png" alt="Logo Universidad Austral de Chile • Color" width="90%" />
+</p>
+
+
+### Logo Centrado: Universidad Austral de Chile • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Centrado-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Centrado-Color-TextoNegro_2048x1011.png">**Descargar PNG**</a> (2048 x 1011 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Centrado-Color-TextoNegro_2048x1011.png" alt="Logo Universidad Austral de Chile • Color" width="90%" />
+</p>
+
+
+### Logo Centrado: Universidad Austral de Chile • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Centrado-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Centrado-Color-TextoBlanco_2048x1011.png">**Descargar PNG**</a> (2048 x 1011 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Centrado-Color-TextoBlanco_2048x1011.png" alt="Logo Universidad Austral de Chile • Color" width="90%" />
+</p>
+
+
+### Logo Horizontal: Universidad Austral de Chile • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Horizontal-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Horizontal-Color-TextoNegro_2048x427.png">**Descargar PNG**</a> (2048 x 427 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Horizontal-Color-TextoNegro_2048x427.png" alt="Logo Universidad Austral de Chile • Color" width="90%" />
+</p>
+
+
+### Logo Horizontal: Universidad Austral de Chile • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Horizontal-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Horizontal-Color-TextoBlanco_2048x427.png">**Descargar PNG**</a> (2048 x 427 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Horizontal-Color-TextoBlanco_2048x427.png" alt="Logo Universidad Austral de Chile • Color" width="90%" />
+</p>
+
+
+### Logo Pequeño Centrado: Universidad Austral de Chile • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Pequeno-Centrado-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Color-TextoNegro_2048x2270.png">**Descargar PNG**</a> (2048 x 2270 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Color-TextoNegro_2048x2270.png" alt="Logo Universidad Austral de Chile • Color" width="70%" />
+</p>
+
+
+### Logo Pequeño Centrado: Universidad Austral de Chile • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Pequeno-Centrado-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Color-TextoBlanco_2048x2270.png">**Descargar PNG**</a> (2048 x 2270 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Color-TextoBlanco_2048x2270.png" alt="Logo Universidad Austral de Chile • Color" width="70%" />
+</p>
+
+
+### Logo Pequeño Horizontal: Universidad Austral de Chile • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Pequeno-Horizontal-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Pequeno-Horizontal-Color-TextoNegro_2048x666.png">**Descargar PNG**</a> (2048 x 666 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Pequeno-Horizontal-Color-TextoNegro_2048x666.png" alt="Logo Universidad Austral de Chile • Color" width="80%" />
+</p>
+
+
+### Logo Pequeño Horizontal: Universidad Austral de Chile • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Logo-UACh-Pequeno-Horizontal-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/PNG/Logo-UACh-Pequeno-Horizontal-Color-TextoBlanco_2048x666.png">**Descargar PNG**</a> (2048 x 666 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Pequeno-Horizontal-Color-TextoBlanco_2048x666.png" alt="Logo Universidad Austral de Chile • Color" width="80%" />
+</p>
+
+
 ### Isotipo: Universidad Austral de Chile • Color
 
 * <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/UACh/SVG/Isotipo-UACh-Color.svg">**Descargar SVG**</a>
@@ -1035,6 +1146,8 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 
 ### Institutos
 
+#### Centro de Docencia de Ciencias Básicas para Ingeniería
+
 #### Logo Oficial: Centro de Docencia de Ciencias Básicas para Ingeniería • Color
 
 * <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-CentroDocenciaCienciasBasicasIngenieria-Oficial-Color.svg">**Descargar SVG**</a>
@@ -1049,10 +1162,10 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 
 * <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro_2048x770.png">**Descargar PNG**</a> (2048 x 770 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro_2048x729.png">**Descargar PNG**</a> (2048 x 770 px)  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro_2048x770.png" alt="Logo Horizontal • Centro de Docencia de Ciencias Básicas para Ingeniería • Color" width="90%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro_2048x729.png" alt="Logo Horizontal • Centro de Docencia de Ciencias Básicas para Ingeniería • Color" width="90%" />
 </p>
 
 <!--## Admisión UACh
