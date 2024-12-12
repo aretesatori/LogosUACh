@@ -110,6 +110,7 @@ Cordialmente,
 		* Instituto de Informática
 		* Instituto de Ingeniería Mecánica
 		* Instituto de Electricidad y Electrónica
+	* [InnovING2030](#innoving2030)
 
 <!--	
 	* LeufüLab
@@ -1168,11 +1169,44 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-CentroDocenciaCienciasBasicasIngenieria-Horizontal-Color-TextoNegro_2048x729.png" alt="Logo Horizontal • Centro de Docencia de Ciencias Básicas para Ingeniería • Color" width="90%" />
 </p>
 
-<!--## Admisión UACh
+<!-- ## Admisión UACh -->
 
 ## InnovING2030
 
-Página: [https://ingenieria.uach.cl/innoving2030/](https://ingenieria.uach.cl/innoving2030/)-->
+Página: [https://ingenieria.uach.cl/innoving2030/](https://ingenieria.uach.cl/innoving2030/)
+
+
+### Logo: InnovING2030 • Color
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Color.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Color_2048x635.png">**Descargar PNG**</a> (2048 x 635 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Color_2048x635.png" alt="Logo InnovING2030 • Color" width="90%" />
+</p>
+
+
+### Logo: InnovING2030 • Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Negro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Negro_2048x635.png">**Descargar PNG**</a> (2048 x 635 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Negro_2048x635.png" alt="Logo InnovING2030 • Negro" width="90%" />
+</p>
+
+
+### Logo: InnovING2030 • Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/Logos-UACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Blanco_2048x635.png">**Descargar PNG**</a> (2048 x 635 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Blanco_2048x635.png" alt="Logo InnovING2030 • Blanco" width="90%" />
+</p>
 
 ---
 # Referencias
