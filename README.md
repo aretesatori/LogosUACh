@@ -1,4 +1,4 @@
-# Gráficas y Logos • Universidad Austral de Chile
+# Logos • Universidad Austral de Chile
 
 Este es un repositorio no oficial con logos recopilados de diversos departamentos de la Universidad Austral de Chile (UACh).
 
@@ -8,7 +8,7 @@ Este es un repositorio no oficial con logos recopilados de diversos departamento
 
 ## Descripción
 
-Actualmente, en la Universidad Austral de Chile no existe una plataforma o medio que facilite el acceso a los diseños de cada departamento existente. Cada facultad, instituto o escuela, de manera independiente, proporciona logos y gráficas a estudiantes, académicos, investigadores, entre otros. Sin embargo, en muchas de las veces los logos que se entregan no corresponden a las versiones originales o no están en buena resolución, ya que a menudo no se prioriza la calidad de los mismos.
+Actualmente, en la Universidad Austral de Chile no existe una plataforma o medio que facilite el acceso a los diseños de cada departamento existente. Cada unidad, de manera independiente, proporciona logos y gráficas a estudiantes, académicos, investigadores, entre otros. Sin embargo, en muchas de las veces los logos que se entregan no corresponden a las versiones originales o no están en buena resolución, ya que a menudo no se prioriza la calidad de los mismos.
 
 Mi propuesta ante esta problemática es que los logos presentes en este repositorio estén disponibles para toda la comunidad, de manera que puedan ser utilizados según las necesidades académicas, ya sea en pósters, afiches, informes, proyectos de título, presentaciones de diapositivas, entre otros.
 
@@ -56,8 +56,8 @@ Mi propuesta ante esta problemática es que los logos presentes en este reposito
 
 **Los derechos de autoría de cada logo corresponden a sus respectivos autores. Yo no soy el responsable por el diseño de los logos de cada departamento**.  
 
-Se ha llevado a cabo la vectorización de algunos logos para mejorar su calidad. Además, se han realizado modificaciones gráficas en ciertos elementos, pero en todo momento preservando los diseños y colores originales.  
-Los cambios y variantes existentes de cada logo en este repositorio no tienen como finalidad afectar la marca original, sino proporcionar alternativas que puedan adaptarse a los distintos contextos y necesidades de los miembros de la comunidad.  
+Se han realizado modificaciones gráficas en ciertos elementos, pero en todo momento preservando los diseños y colores originales.  
+Los cambios y variantes existentes (color, blanco, negro) de cada logo en este repositorio no tienen como finalidad afectar la marca original, sino proporcionar alternativas que puedan adaptarse a los distintos contextos y necesidades de los miembros de la comunidad.  
 
 **Solicito encarecidamente que todos utilicen estos logos de manera respetuosa y ética, reconociendo la propiedad intelectual de los respectivos autores y evitando cualquier uso que pueda perjudicar la imagen de los departamentos o de la propia Universidad Austral de Chile**.  
 
@@ -87,9 +87,9 @@ Cordialmente,
 
 * Logo Acreditación-->
 
-* [Facultad de Ciencias de la Ingeniería](#facultad-de-ciencias-de-la-ingeniería-fci)
+* [Facultad de Ciencias de la Ingeniería](#facultad-de-ciencias-de-la-ingeniería)
 
-	* [Carreras](#carreras)
+	* Carreras
 		* [Ingeniería Civil Acústica](#1-ingeniería-civil-acústica)
 		* [Ingeniería Civil en Construcción](#2-ingeniería-civil-en-construcción)
 		* [Ingeniería Civil Electrónica](#3-ingeniería-civil-electrónica)
@@ -101,7 +101,7 @@ Cordialmente,
 		* [Ingeniería Naval](#8-ingeniería-naval)
 		* [Ingeniería Plan Común (Bachillerato en Ciencias de la Ingeniería)](#9-ingeniería-plan-común-bachillerato-en-ciencias-de-la-ingeniería)
 
-	* [Institutos](#institutos)
+	* Unidades
 		* [Centro de Docencia de Ciencias Básicas para Ingeniería](#centro-de-docencia-de-ciencias-básicas-para-ingeniería)
 		* Instituto de Acústica
 		* Instituto de Ciencias Navales y Marítimas
@@ -110,26 +110,37 @@ Cordialmente,
 		* Instituto de Informática
 		* Instituto de Ingeniería Mecánica
 		* Instituto de Electricidad y Electrónica
+
 	* [InnovING2030](#innoving2030)
 
 <!--	
 	* LeufüLab
-
 	* CAF Miraflores
 	* Audio Mining Laboratory (AuMiLab)
-	* InnovING2030
 	* Centro de Innovación 14K-->
 
-<!--* Facultad de Ciencias
-	* Instituto de Bioquímica y Microbiología
-	* Instituto de Ciencias de la Tierra
-	* Instituto de Ciencias Físicas y Matemáticas
-	* Instituto de Ciencias Ambientales y Evolutivas
-	* Instituto de Ciencias Químicas
-	* Instituto de Farmacia
-	* Instituto de Ciencias Marinas y Limnológicas
+* Facultad de Ciencias
 
-	* Geología
+	* Carreras
+		* Biología
+		* Biología Marina
+		* Bioquímica
+		* Geografía
+		* Geología
+		* Licenciatura en Ciencias con Mención
+		* Química
+		* Química y Farmacia
+
+	* Unidades
+		* Instituto de Bioquímica y Microbiología
+		* Instituto de Ciencias de la Tierra
+		* Instituto de Ciencias Físicas y Matemáticas
+		* Instituto de Ciencias Ambientales y Evolutivas
+		* Instituto de Ciencias Químicas
+		* Instituto de Farmacia
+		* Instituto de Ciencias Marinas y Limnológicas
+
+<!--
 
 * Facultad de Filosofía y Humanidades
 
@@ -359,7 +370,7 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 </p>
 
 
-## Facultad de Ciencias de la Ingeniería (FCI)
+## Facultad de Ciencias de la Ingeniería
 
 Página: [https://ingenieria.uach.cl/](https://ingenieria.uach.cl/)
 
@@ -367,7 +378,7 @@ Página: [https://ingenieria.uach.cl/](https://ingenieria.uach.cl/)
 
 **Nota**: **Esta información acerca de los colores oficiales está sujeta a revisión**.
 
-Los colores oficiales utilizados por la Facultad de Ciencias de la Ingeniería son los que se muestran a continuación:
+Los colores oficiales utilizados por la Facultad de Ciencias de la Ingeniería (FCI) son los que se muestran a continuación:
 
 <p align="center">
 	<img src="Pantone/Pantone_Orange-021-C.png" alt="Vista previa • Pantone Orange 021 C" width="25%" />
@@ -424,7 +435,7 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 
 ### Logo Oficial: Facultad de Ciencias de la Ingeniería • Color (Texto Blanco)
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-Color-TextoBlanco.svg">**Descargar SVG**</a>
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-FCI-Oficial-Color-TextoBlanco.svg">**Descargar SVG**</a>
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-FCI-Oficial-Color-TextoBlanco_2048x766.png">**Descargar PNG**</a> (2048 x 766 px)  
 
@@ -1149,6 +1160,8 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 
 #### Centro de Docencia de Ciencias Básicas para Ingeniería
 
+Página: [https://ingenieria.uach.cl/institutos/ciencias-basicas/](https://ingenieria.uach.cl/institutos/ciencias-basicas/)
+
 #### Logo Oficial: Centro de Docencia de Ciencias Básicas para Ingeniería • Color
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-CentroDocenciaCienciasBasicasIngenieria-Oficial-Color.svg">**Descargar SVG**</a>
@@ -1217,12 +1230,14 @@ Página: [https://ingenieria.uach.cl/innoving2030/](https://ingenieria.uach.cl/i
 
 > Humanidades UACh (https://www.flickr.com/photos/194257994@N05/)
 
-<!-- > Documentos (https://www.icml.uach.cl/documentos/) -->
+> Documentos (https://www.icml.uach.cl/documentos/)
 
 > Ingeniería UACh (https://assets.adobe.com/public/9d9c75aa-8ed8-4789-7871-72501b6f35b5)
 
 > Derecho UACh - Imagen Corporativa (https://derecho.uach.cl/index.php/vinculacion-con-el-medio/imagencorporativa.html)
 
-<!-- Utilidades - Ingeniería Civil Industrial (https://icipm.uach.cl/utilidades/) -->
+> Utilidades - Ingeniería Civil Industrial (https://icipm.uach.cl/utilidades/)
+
+> Formatos Web UACh Sede Puerto Montt (https://drive.google.com/drive/folders/1qcsR6NdqwdMpCLEDYWKuT5CjJiZvgCzT?usp=share_link)
 
 > Numerosamente.it (https://www.numerosamente.it/)
