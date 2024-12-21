@@ -56,7 +56,6 @@ Mi propuesta ante esta problemática es que los logos presentes en este reposito
 
 **Los derechos de autoría de cada logo corresponden a sus respectivos autores. Yo no soy el responsable por el diseño de los logos de cada departamento**.  
 
-Se han realizado modificaciones gráficas en ciertos elementos, pero en todo momento preservando los diseños y colores originales.  
 Los cambios y variantes existentes (color, blanco, negro) de cada logo en este repositorio no tienen como finalidad afectar la marca original, sino proporcionar alternativas que puedan adaptarse a los distintos contextos y necesidades de los miembros de la comunidad.  
 
 **Solicito encarecidamente que todos utilicen estos logos de manera respetuosa y ética, reconociendo la propiedad intelectual de los respectivos autores y evitando cualquier uso que pueda perjudicar la imagen de los departamentos o de la propia Universidad Austral de Chile**.  
@@ -86,6 +85,8 @@ Cordialmente,
 * Logo Aniversario
 
 * Logo Acreditación-->
+
+* [IEEE Student Branch](#ieee-student-branch)
 
 * [Facultad de Ciencias de la Ingeniería](#facultad-de-ciencias-de-la-ingeniería)
 
@@ -140,17 +141,20 @@ Cordialmente,
 		* Instituto de Farmacia
 		* Instituto de Ciencias Marinas y Limnológicas
 
+* [Unidad de Gestión Ambiental (UGA)](#unidad-de-gestion-ambiental)
+
+* [Referencias](#referencias)
 <!--
 
 * Facultad de Filosofía y Humanidades
 
+	* Centro de Idiomas
 	* Instituto de Ciencias de la Educación
 	* Instituto de Comunicación Social
 	* Instituto de Estudios Antropológicos
 	* Instituto de Linguistica y Literatura
 	* Instituto de Historia y Ciencias Sociales
 	* Instituto de Filosofía
-	* Centro de Idiomas
 
 	* Escuela de Graduados
 	* Escuela de Historia y Ciencias Sociales
@@ -189,7 +193,7 @@ Cordialmente,
 ---
 # Gráficas
 
-**Nota**: En este repositorio, los términos "Blanco" y "Negro" se utilizan para designar los colores correspondientes a los códigos hexadecimales **#FFF** y **#000**, respectivamente.
+<!-- **Nota**: En este repositorio, los términos "Blanco" y "Negro" se utilizan para designar los colores correspondientes a los códigos hexadecimales **#FFF** y **#000**, respectivamente. -->
 
 **Nota**: Todas las gráficas fueron creadas y editadas con **Adobe Illustrator CC**.
 
@@ -368,6 +372,45 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 <p align="center">
 	<img src="Logos/UACh/PNG/Isotipo-UACh-Negro_1024x1237.png" alt="Isotipo Universidad Austral de Chile • Negro" width="60%" />
 </p>
+
+
+
+## IEEE Student Branch
+
+Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.ieee.org/cl-uach/)
+
+## Logo: IEEE Student Branch • Color • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoTransparente_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+## Logo: IEEE Student Branch • Color • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+## Logo: IEEE Student Branch • Color • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
 
 
 ## Facultad de Ciencias de la Ingeniería
@@ -1220,6 +1263,44 @@ Página: [https://ingenieria.uach.cl/innoving2030/](https://ingenieria.uach.cl/i
 <p align="center">
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-InnovING2030-Blanco_2048x635.png" alt="Logo InnovING2030 • Blanco" width="90%" />
 </p>
+
+
+## Unidad de Gestión Ambiental
+
+Página: [https://uga.uach.cl/](https://uga.uach.cl/)
+
+### Logo: Unidad de Gestión Ambiental • Color • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-InnovING2030-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoTransparente_2048x2901.png">**Descargar PNG**</a> (2048 x 2901 px)  
+
+<p align="center">
+	<img src="Logos/UGA/PNG/Logo-UGA-Color-FondoTransparente_2048x2901.png" alt="Logo UGA • Color" width="80%" />
+</p>
+
+
+### Logo: Unidad de Gestión Ambiental • Color • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCuadrado.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCuadrado_2048x2048.png">**Descargar PNG**</a> (2048 x 2901 px)  
+
+<p align="center">
+	<img src="Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCuadrado_2048x2048.png" alt="Logo UGA • Color" width="80%" />
+</p>
+
+
+### Logo: Unidad de Gestión Ambiental • Color • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2901 px)  
+
+<p align="center">
+	<img src="Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCircular_2048x2048.png" alt="Logo UGA • Color" width="80%" />
+</p>
+
 
 ---
 # Referencias
