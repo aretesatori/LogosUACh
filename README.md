@@ -80,6 +80,8 @@ Cordialmente,
 
 * [Universidad Austral de Chile](#universidad-austral-de-chile)
 
+	* [UACh Sede Puerto Montt](#)
+
 <!--* Admisión UACh
 
 * Logo Aniversario
@@ -141,54 +143,9 @@ Cordialmente,
 		* Instituto de Farmacia
 		* Instituto de Ciencias Marinas y Limnológicas
 
-* [Unidad de Gestión Ambiental (UGA)](#unidad-de-gestion-ambiental)
+* [Unidad de Gestión Ambiental (UGA)](#unidad-de-gestión-ambiental)
 
 * [Referencias](#referencias)
-<!--
-
-* Facultad de Filosofía y Humanidades
-
-	* Centro de Idiomas
-	* Instituto de Ciencias de la Educación
-	* Instituto de Comunicación Social
-	* Instituto de Estudios Antropológicos
-	* Instituto de Linguistica y Literatura
-	* Instituto de Historia y Ciencias Sociales
-	* Instituto de Filosofía
-
-	* Escuela de Graduados
-	* Escuela de Historia y Ciencias Sociales
-	* Coordinación Vinculación con el Medio
-
-	* Magíster en Historia del Tiempo Presente
-
-* Facultad de Ciencias Veterinarias
-* Facultad de Ciencias Agrarias y Alimentarias
-
-* Facultad de Medicina
-* Facultad de Arquitectura y Artes
-
-	* Arquitectura
-	* Artes Musicales y Sonoras
-	* Diseño
-
-* Facultad de Ciencias Económicas y Administrativas
-* Facultad de Ciencias Jurídicas y Sociales
-
-
-* Jardín Botánico UACh
-* Dirección de Infraestructura y Servicios
-* Radio UACh
-* CineClub UACh
-* Unidad de Gestión Ambiental (UGA)
-* Centro de Deportes y Recreación (CEDERE)
-* Alumni UACh
-* UACh Sustentable
-* UCEA
-* Patagón - Supercomputador UACh
-* Preuniversitario UACh
-* Orquesta Cámara de Valdivia
-* Centro de Estudios Científicos (CECs)-->
 
 ---
 # Gráficas
@@ -199,7 +156,7 @@ Cordialmente,
 
 <!--**Nota**: Todas las imágenes presentes en este repositorio están guardadas en formato de color RGB, lo que significa que están desarrolladas para ser visualizadas en pantallas de dispositivos, pero no están optimizadas para impresión. **Si desea imprimir alguna de estas imágenes, se recomienda consultar a un diseñador gráfico especializado y principalmente asegurarse de trabajar con el formato de color CMYK antes de realizar cualquier tipo de impresión**.  -->
 
-**Formato**: Los diseños están presentes en formato `PNG` (Portable Network Graphics) y `SVG` (Scalable Vector Graphics).
+**Formato**: Los diseños están presentes en formato `PNG` (Portable Network Graphics), `SVG` (Scalable Vector Graphics), y gradualmente se están incluyendo archivos `PDF` (Portable Document Format).
 
 **Sugerencia**: Si es posible, utilice los logos en formato `SVG`, ya que no sufren pérdida de calidad. Muchas veces no son soportados en algunos editores como en Microsoft PowerPoint o Microsoft Word, en ese caso, utilice el logo en formato `PNG`.  
 **Evite utilizar `JPG` para los diseños, ya que su uso implica la pérdida del fondo transparente y una considerable pérdida de calidad en ilustraciones de cualquier tipo**.  
@@ -255,6 +212,32 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 </p>
 
 
+### Logo Oficial: Universidad Austral de Chile • Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Principal-Negro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Logo-UACh-Principal-Negro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-Principal-Negro_2048x1176.png">**Descargar PNG**</a> (2048 x 1176 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Principal-Negro_2048x1176.png" alt="Logo Universidad Austral de Chile • Negro" width="90%" />
+</p>
+
+
+### Logo Oficial: Universidad Austral de Chile • Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Principal-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Logo-UACh-Principal-Blanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-Principal-Blanco_2048x1176.png">**Descargar PNG**</a> (2048 x 1176 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Principal-Blanco_2048x1176.png" alt="Logo Universidad Austral de Chile • Blanco" width="90%" />
+</p>
+
+
 ### Logo Centrado: Universidad Austral de Chile • Color (Texto Negro)
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Centrado-Color-TextoNegro.svg">**Descargar SVG**</a>
@@ -274,6 +257,28 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 
 <p align="center">
 	<img src="Logos/UACh/PNG/Logo-UACh-Centrado-Color-TextoBlanco_2048x1011.png" alt="Logo Universidad Austral de Chile • Color" width="90%" />
+</p>
+
+
+### Logo Centrado: Universidad Austral de Chile • Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Centrado-Negro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-Centrado-Negro_2048x1011.png">**Descargar PNG**</a> (2048 x 1011 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Centrado-Negro_2048x1011.png" alt="Logo Universidad Austral de Chile • Negro" width="90%" />
+</p>
+
+
+### Logo Centrado: Universidad Austral de Chile • Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Centrado-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-Centrado-Blanco_2048x1011.png">**Descargar PNG**</a> (2048 x 1011 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Centrado-Blanco_2048x1011.png" alt="Logo Universidad Austral de Chile • Blanco" width="90%" />
 </p>
 
 
@@ -321,6 +326,28 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 </p>
 
 
+### Logo Pequeño Centrado: Universidad Austral de Chile • Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Pequeno-Centrado-Negro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Negro_2048x2270.png">**Descargar PNG**</a> (2048 x 2270 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Negro_2048x2270.png" alt="Logo Universidad Austral de Chile • Negro" width="70%" />
+</p>
+
+
+### Logo Pequeño Centrado: Universidad Austral de Chile • Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Pequeno-Centrado-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Blanco_2048x2270.png">**Descargar PNG**</a> (2048 x 2270 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-Pequeno-Centrado-Blanco_2048x2270.png" alt="Logo Universidad Austral de Chile • Blanco" width="70%" />
+</p>
+
+
 ### Logo Pequeño Horizontal: Universidad Austral de Chile • Color (Texto Negro)
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-Pequeno-Horizontal-Color-TextoNegro.svg">**Descargar SVG**</a>
@@ -347,41 +374,108 @@ La Universidad Austral de Chile utiliza en su logo fuentes de la familia **Garam
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Isotipo-UACh-Color.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Isotipo-UACh-Color_1024x1238.png">**Descargar PNG**</a> (1024 x 1238 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Isotipo-UACh-Color.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Isotipo-UACh-Color_2048x2477.png">**Descargar PNG**</a> (2048 x 2477 px)  
 
 <p align="center">
-	<img src="Logos/UACh/PNG/Isotipo-UACh-Color_1024x1238.png" alt="Isotipo Universidad Austral de Chile • Color" width="60%" />
+	<img src="Logos/UACh/PNG/Isotipo-UACh-Color_2048x2477.png" alt="Isotipo Universidad Austral de Chile • Color" width="75%" />
 </p>
+
 
 ### Isotipo: Universidad Austral de Chile • Blanco
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Isotipo-UACh-Blanco.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Isotipo-UACh-Blanco_1024x1237.png">**Descargar PNG**</a> (1024 x 1237 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Isotipo-UACh-Blanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Isotipo-UACh-Blanco_2048x2475.png">**Descargar PNG**</a> (2048 x 2475 px)  
 
 <p align="center">
-	<img src="Logos/UACh/PNG/Isotipo-UACh-Blanco_1024x1237.png" alt="Isotipo Universidad Austral de Chile • Blanco" width="60%" />
+	<img src="Logos/UACh/PNG/Isotipo-UACh-Blanco_2048x2475.png" alt="Isotipo Universidad Austral de Chile • Blanco" width="75%" />
 </p>
+
 
 ### Isotipo: Universidad Austral de Chile • Negro
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Isotipo-UACh-Negro.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Isotipo-UACh-Negro_1024x1237.png">**Descargar PNG**</a> (1024 x 1237 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Isotipo-UACh-Negro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Isotipo-UACh-Negro_2048x2475.png">**Descargar PNG**</a> (2048 x 2475 px)  
 
 <p align="center">
-	<img src="Logos/UACh/PNG/Isotipo-UACh-Negro_1024x1237.png" alt="Isotipo Universidad Austral de Chile • Negro" width="60%" />
+	<img src="Logos/UACh/PNG/Isotipo-UACh-Negro_2048x2475.png" alt="Isotipo Universidad Austral de Chile • Negro" width="75%" />
 </p>
 
+
+## UACh Sede Puerto Montt
+
+Página: [https://pmontt.uach.cl/](https://pmontt.uach.cl/)
+
+### Logo Oficial: UACh, Sede Puerto Montt • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-SedePuertoMontt-Principal-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Logo-UACh-SedePuertoMontt-Principal-Color-TextoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Principal-Color-TextoNegro_2048x1176.png">**Descargar PNG**</a> (2048 x 1176 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Principal-Color-TextoNegro_2048x1176.png" alt="Logo UACh, Sede Puerto Montt • Color" width="60%" />
+</p>
+
+
+### Logo Oficial: UACh, Sede Puerto Montt • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-SedePuertoMontt-Principal-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Logo-UACh-SedePuertoMontt-Principal-Color-TextoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Principal-Color-TextoBlanco_2048x1176.png">**Descargar PNG**</a> (2048 x 1176 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Principal-Color-TextoBlanco_2048x1176.png" alt="Logo UACh, Sede Puerto Montt • Color" width="60%" />
+</p>
+
+
+### Logo Oficial: UACh, Sede Puerto Montt • Color (Texto Negro), con Rectángulo Pantone 314 C
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloPantone314C.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloPantone314C.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloPantone314C_2048x912.png">**Descargar PNG**</a> (2048 x 912 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloPantone314C_2048x912.png" alt="Logo UACh, Sede Puerto Montt • Color" width="60%" />
+</p>
+
+
+### Logo Oficial: UACh, Sede Puerto Montt • Color (Texto Negro), con Rectángulo Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/SVG/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PDF/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloNegro_2048x912.png">**Descargar PNG**</a> (2048 x 912 px)  
+
+<p align="center">
+	<img src="Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloNegro_2048x912.png" alt="Logo UACh, Sede Puerto Montt • Color" width="60%" />
+</p>
 
 
 ## IEEE Student Branch
 
 Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.ieee.org/cl-uach/)
 
-## Logo: IEEE Student Branch • Color • Fondo Transparente
+Los presentes logos de la IEEE Student Branch de la Universidad Austral de Chile fueron diseñados por mí como una propuesta de reemplazar el logo anterior que no contenía el isotipo (escudo) de la universidad.
+
+### Logo: IEEE Student Branch • Color • Fondo Transparente
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/Logo-IEEEStudentBranch-Color-FondoTransparente.pdf">**Descargar PDF**</a>
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
 
@@ -390,9 +484,11 @@ Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.iee
 </p>
 
 
-## Logo: IEEE Student Branch • Color • Fondo Blanco
+### Logo: IEEE Student Branch • Color • Fondo Blanco
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/Logo-IEEEStudentBranch-Color-FondoBlanco.pdf">**Descargar PDF**</a>
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
 
@@ -401,16 +497,17 @@ Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.iee
 </p>
 
 
-## Logo: IEEE Student Branch • Color • Fondo Blanco Circular
+### Logo: IEEE Student Branch • Color • Fondo Blanco Circular
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/Logo-IEEEStudentBranch-Color-FondoBlancoCircular.pdf">**Descargar PDF**</a>
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
 
 <p align="center">
 	<img src="Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
 </p>
-
 
 
 ## Facultad de Ciencias de la Ingeniería
@@ -1269,14 +1366,22 @@ Página: [https://ingenieria.uach.cl/innoving2030/](https://ingenieria.uach.cl/i
 
 Página: [https://uga.uach.cl/](https://uga.uach.cl/)
 
+A continuación, se presentan los logos de la Unidad de Gestión Ambiental (UGA) que fueron reestructurados (vectorizados) por mí, dado a que no se pudo encontrar la versión en buena calidad del logo. Se ha hecho todo lo posible por conservar el diseño y los colores originales.
+
+### Fuentes
+
+La UGA utiliza en su logotipo la fuente **Oswald -**. 
+
 ### Logo: Unidad de Gestión Ambiental • Color • Fondo Transparente
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-InnovING2030-Blanco.svg">**Descargar SVG**</a>
 
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PDF/Logo-UGA-Color-FondoTransparente.pdf">**Descargar PDF**</a>
+
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoTransparente_2048x2901.png">**Descargar PNG**</a> (2048 x 2901 px)  
 
 <p align="center">
-	<img src="Logos/UGA/PNG/Logo-UGA-Color-FondoTransparente_2048x2901.png" alt="Logo UGA • Color" width="80%" />
+	<img src="Logos/UGA/PNG/Logo-UGA-Color-FondoTransparente_2048x2901.png" alt="Logo UGA • Color" width="60%" />
 </p>
 
 
@@ -1284,7 +1389,9 @@ Página: [https://uga.uach.cl/](https://uga.uach.cl/)
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCuadrado.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCuadrado_2048x2048.png">**Descargar PNG**</a> (2048 x 2901 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PDF/Logo-UGA-Color-FondoBlancoCuadrado.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCuadrado_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
 
 <p align="center">
 	<img src="Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCuadrado_2048x2048.png" alt="Logo UGA • Color" width="80%" />
@@ -1295,7 +1402,7 @@ Página: [https://uga.uach.cl/](https://uga.uach.cl/)
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2901 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
 
 <p align="center">
 	<img src="Logos/UGA/PNG/Logo-UGA-Color-FondoBlancoCircular_2048x2048.png" alt="Logo UGA • Color" width="80%" />
