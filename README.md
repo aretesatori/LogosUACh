@@ -156,10 +156,9 @@ Cordialmente,
 
 <!--**Nota**: Todas las imágenes presentes en este repositorio están guardadas en formato de color RGB, lo que significa que están desarrolladas para ser visualizadas en pantallas de dispositivos, pero no están optimizadas para impresión. **Si desea imprimir alguna de estas imágenes, se recomienda consultar a un diseñador gráfico especializado y principalmente asegurarse de trabajar con el formato de color CMYK antes de realizar cualquier tipo de impresión**.  -->
 
-**Formato**: Los diseños están presentes en formato `PNG` (Portable Network Graphics), `SVG` (Scalable Vector Graphics), y gradualmente se están incluyendo archivos `PDF` (Portable Document Format).
+**Formato**: Los diseños están presentes en formato `PNG` (Portable Network Graphics), `SVG` (Scalable Vector Graphics), y, gradualmente, se están incluyendo archivos `PDF` (Portable Document Format) con la principal finalidad de que puedan ser utilizados en LaTeX.
 
-**Sugerencia**: Si es posible, utilice los logos en formato `SVG`, ya que no sufren pérdida de calidad. Muchas veces no son soportados en algunos editores como en Microsoft PowerPoint o Microsoft Word, en ese caso, utilice el logo en formato `PNG`.  
-**Evite utilizar `JPG` para los diseños, ya que su uso implica la pérdida del fondo transparente y una considerable pérdida de calidad en ilustraciones de cualquier tipo**.  
+**Sugerencia**: Si es posible, utilice los logos en formato `SVG`, ya que no sufren pérdida de calidad. Sin embargo, tenga en cuenta que algunos editores, como Microsoft PowerPoint o Microsoft Word, pueden no soportar este formato; en esos casos, recomiendo utilizar el logo en formato `PNG`. **Evite utilizar `JPG` para los diseños, ya que su uso implica la pérdida del fondo transparente y una considerable pérdida de calidad en ilustraciones de cualquier tipo**.  
 
 ## Universidad Austral de Chile
 
@@ -985,6 +984,62 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 </p>
 
 
+
+### Logo: Somos Ingeniería UACh • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-SomosIngenieriaUACh-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Color-TextoBlanco_2048x910.png">**Descargar PNG**</a> (2048 x 910 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Color-TextoBlanco_2048x910.png" alt="Logo Somos Ingeniería UACh • Color" width="80%" />
+</p>
+
+
+### Logo: Somos Ingeniería UACh • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-SomosIngenieriaUACh-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Color-TextoNegro_2048x910.png">**Descargar PNG**</a> (2048 x 910 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Color-TextoNegro_2048x910.png" alt="Logo Somos Ingeniería UACh • Color" width="80%" />
+</p>
+
+
+### Logo: Somos Ingeniería UACh • Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-SomosIngenieriaUACh-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Blanco_2048x910.png">**Descargar PNG**</a> (2048 x 910 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Blanco_2048x910.png" alt="Logo Somos Ingeniería UACh • Blanco" width="80%" />
+</p>
+
+
+### Logo: Somos Ingeniería UACh • Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-SomosIngenieriaUACh-Negro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Negro_2048x910.png">**Descargar PNG**</a> (2048 x 910 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-Negro_2048x910.png" alt="Logo Somos Ingeniería UACh • Negro" width="80%" />
+</p>
+
+
+### Logo: Somos Ingeniería UACh • Fondo Pantone Orange 021 C
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-SomosIngenieriaUACh-FondoPantoneOrange021C.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-FondoPantoneOrange021C_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-SomosIngenieriaUACh-FondoPantoneOrange021C_2048x2048.png" alt="Logo Somos Ingeniería UACh • Fondo Pantone Orange 021 C" width="90%" />
+</p>
+
+
 ### Carreras
 
 #### 1. Ingeniería Civil Acústica
@@ -1426,7 +1481,7 @@ A continuación, se presentan los logos de la Unidad de Gestión Ambiental (UGA)
 
 ### Fuentes
 
-La UGA utiliza en su logotipo la fuente **Oswald -**. 
+La UGA utiliza en su logotipo la fuente **Oswald **. 
 
 ### Logo: Unidad de Gestión Ambiental • Color • Fondo Transparente
 
