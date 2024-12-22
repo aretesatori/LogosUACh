@@ -80,7 +80,7 @@ Cordialmente,
 
 * [Universidad Austral de Chile](#universidad-austral-de-chile)
 
-	* [UACh Sede Puerto Montt](#)
+	* [UACh Sede Puerto Montt](#uach-sede-puerto-montt)
 
 <!--* Admisión UACh
 
@@ -469,7 +469,7 @@ Página: [https://pmontt.uach.cl/](https://pmontt.uach.cl/)
 
 Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.ieee.org/cl-uach/)
 
-Los presentes logos de la IEEE Student Branch de la Universidad Austral de Chile fueron diseñados por mí como una propuesta de reemplazar el logo anterior que no contenía el isotipo (escudo) de la universidad.
+Los logos presentados de la IEEE Student Branch de la Universidad Austral de Chile fueron diseñados por mí como una propuesta para reemplazar el logo anterior, que no incluía el isotipo (escudo) de la universidad.
 
 ### Logo: IEEE Student Branch • Color • Fondo Transparente
 
@@ -999,6 +999,7 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Oficial-Color-TextoBlanco_2048x1698.png" alt="Logo Ingeniería Civil Acústica • Color" width="90%" />
 </p>
 
+
 #### Logo Oficial: Ingeniería Civil Acústica • Color (Texto Negro)
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-Acustica-Oficial-Color-TextoNegro.svg">**Descargar SVG**</a>
@@ -1009,15 +1010,17 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Oficial-Color-TextoNegro_2048x1698.png" alt="Logo Ingeniería Civil Acústica • Color" width="90%" />
 </p>
 
+
 #### Logo Oficial: Ingeniería Civil Acústica • Blanco
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-Acustica-Oficial-Blanco.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Oficial-Blanco_2048x1697.png">**Descargar PNG**</a> (2048 x 1697 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Oficial-Blanco_2048x1698.png">**Descargar PNG**</a> (2048 x 1698 px)  
 
 <p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Oficial-Blanco_2048x1697.png" alt="Logo Ingeniería Civil Acústica • Blanco" width="90%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Oficial-Blanco_2048x1698.png" alt="Logo Ingeniería Civil Acústica • Blanco" width="90%" />
 </p>
+
 
 #### Logo Oficial: Ingeniería Civil Acústica • Negro
 
@@ -1028,6 +1031,59 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 <p align="center">
 	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Oficial-Negro_2048x1698.png" alt="Logo Ingeniería Civil Acústica • Negro" width="90%" />
 </p>
+
+
+#### Logo Horizontal: Ingeniería Civil Acústica • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-Acustica-Horizontal-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PDF/Logo-Acustica-Horizontal-Color-TextoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Color-TextoBlanco_2048x384.png">**Descargar PNG**</a> (2048 x 384 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Color-TextoBlanco_2048x384.png" alt="Logo Ingeniería Civil Acústica • Color" width="90%" />
+</p>
+
+
+#### Logo Horizontal: Ingeniería Civil Acústica • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-Acustica-Horizontal-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PDF/Logo-Acustica-Horizontal-Color-TextoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Color-TextoNegro_2048x384.png">**Descargar PNG**</a> (2048 x 384 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Color-TextoNegro_2048x384.png" alt="Logo Ingeniería Civil Acústica • Color" width="90%" />
+</p>
+
+
+#### Logo Horizontal: Ingeniería Civil Acústica • Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-Acustica-Horizontal-Blanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PDF/Logo-Acustica-Horizontal-Blanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Blanco_2048x384.png">**Descargar PNG**</a> (2048 x 384 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Blanco_2048x384.png" alt="Logo Ingeniería Civil Acústica • Blanco" width="90%" />
+</p>
+
+
+#### Logo Horizontal: Ingeniería Civil Acústica • Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-Acustica-Horizontal-Negro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PDF/Logo-Acustica-Horizontal-Negro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Negro_2048x384.png">**Descargar PNG**</a> (2048 x 384 px)  
+
+<p align="center">
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-Acustica-Horizontal-Negro_2048x384.png" alt="Logo Ingeniería Civil Acústica • Negro" width="90%" />
+</p>
+
 
 #### 2. Ingeniería Civil en Construcción
 
