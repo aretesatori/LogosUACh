@@ -14,43 +14,6 @@ Mi propuesta ante esta problemática es que los logos presentes en este reposito
 
 **El propósito de este repositorio es facilitar el acceso a logos y gráficas institucionales en excelente calidad a toda la comunidad universitaria**.
 
-<!---
-# Estructura
-
-* La estructura de este repositorio se organiza en directorios, donde cada uno lleva el nombre de la unidad correspondiente y contiene los logos asociados.
-
-**Ejemplo**:
-
-```
-├── Logos
-    └── Facultad_Ciencias_Ingenieria
-        ├── FCI-Blanco-Fondo-Transparente.png
-        ├── FCI-Color-Fondo-Transparente-Oscuro.png
-        ├── FCI-Cuadrado-Fondo-Pantone320C.png
-        ├── FCI-Cuadrado-Fondo-PantoneOrange021C.png
-        └── FCI-Negro-Fondo-Transparente.png
-(...)
-```
-
-* Cada unidad tiene su propio directorio que incluye logos en las siguientes categorías:
-
-	* Color
-	* Blanco
-	* Negro
-
-* Además, se incluye información sobre cada color Pantone y RGB, la cual se encuentra dentro de cada directorio correspondiente.
-
-* En cuanto a las dimensiones de los logos, existen tres variantes:
-
-	* Logo pequeño: ancho de **512 px**.
-	* Logo mediano: ancho de **1024 px**.
-	* Logo grande: ancho de **2048 px**.
-
-* Todos los logos están disponibles en formato PNG, SVG y EPS.
-
-* Al final de este README se encuentra la fuente (links) de algunas gráficas originales obtenidas.
--->
-
 ---
 ## Importante
 
@@ -63,7 +26,7 @@ Los cambios y variantes existentes (color, blanco, negro) de cada logo en este r
 ---
 ## Consideraciones
 
-Cualquier contribución es muy bienvenida. Puede realizarla directamente a través de [GitHub](https://github.com/aretesatori/LogosUACh/issues) o a mi correo electrónico: [arete.poffart@alumnos.uach.cl](mailto:arete.poffart@alumnos.uach.cl)
+Cualquier contribución es muy bienvenida. Puede realizarla directamente a través de [GitHub](https://github.com/aretesatori/LogosUACh/pulls) o a mi correo electrónico: [arete.poffart@alumnos.uach.cl](mailto:arete.poffart@alumnos.uach.cl)
 
 Se reciben solicitudes para realizar cambios, corrección o eliminación de los diseños presentes en este repositorio.
 
@@ -468,7 +431,7 @@ Página: [https://pmontt.uach.cl/](https://pmontt.uach.cl/)
 
 Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.ieee.org/cl-uach/)
 
-Los logos presentados de la IEEE Student Branch de la Universidad Austral de Chile fueron diseñados por mí como una propuesta para reemplazar el logo anterior, que no incluía el isotipo (escudo) de la universidad.
+Los presentes logos de la IEEE Student Branch de la Universidad Austral de Chile fueron diseñados por mí como una propuesta para reemplazar el logo anterior, que no incluía el isotipo (escudo) de la universidad.
 
 ### Logo: IEEE Student Branch • Color • Fondo Transparente
 
