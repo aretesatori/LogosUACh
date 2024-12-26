@@ -45,15 +45,17 @@ Cordialmente,
 
 	* [UACh Sede Puerto Montt](#uach-sede-puerto-montt)
 
-<!--* Admisión UACh
+* [Logos de Aniversarios](#logos-de-aniversarios)
 
-* Logo Aniversario
+	* [Aniversario 90 Años Campus Miraflores](#aniversario-90-años-campus-miraflores)
+
+<!--* Admisión UACh
 
 * Logo Acreditación-->
 
-* [IEEE Student Branch](#ieee-student-branch)
-
 * [Facultad de Ciencias de la Ingeniería](#facultad-de-ciencias-de-la-ingeniería)
+
+	* [Somos Ingeniería UACh](#somos-ingeniería-uach)
 
 	* Carreras
 		* [Ingeniería Civil Acústica](#1-ingeniería-civil-acústica)
@@ -78,6 +80,8 @@ Cordialmente,
 		* Instituto de Electricidad y Electrónica
 
 	* [InnovING2030](#innoving2030)
+
+* [IEEE Student Branch](#ieee-student-branch)
 
 <!--	
 	* LeufüLab
@@ -426,49 +430,40 @@ Página: [https://pmontt.uach.cl/](https://pmontt.uach.cl/)
 	<img src="Logos/UACh/PNG/Logo-UACh-SedePuertoMontt-Pequeno-Color-TextoNegro-RectanguloNegro_2048x912.png" alt="Logo UACh, Sede Puerto Montt • Color" width="60%" />
 </p>
 
+## Logos de Aniversarios
 
-## IEEE Student Branch
+### Aniversario 90 Años Campus Miraflores
 
-Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.ieee.org/cl-uach/)
+### Logo: Aniversario 90 Años Campus Miraflores • Color
 
-Los presentes logos de la IEEE Student Branch de la Universidad Austral de Chile fueron diseñados por mí como una propuesta para reemplazar el logo anterior, que no incluía el isotipo (escudo) de la universidad.
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-90A-Miraflores-Color.svg">**Descargar SVG**</a>
 
-### Logo: IEEE Student Branch • Color • Fondo Transparente
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoTransparente.svg">**Descargar SVG**</a>
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/Logo-IEEEStudentBranch-Color-FondoTransparente.pdf">**Descargar PDF**</a>
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Color_2048x843.png">**Descargar PNG**</a> (2048 x 843 px)  
 
 <p align="center">
-	<img src="Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoTransparente_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Color_2048x843.png" alt="Logo Aniversario 90 Años Campus Miraflores • Color" width="90%" />
 </p>
 
 
-### Logo: IEEE Student Branch • Color • Fondo Blanco
+### Logo: Aniversario 90 Años Campus Miraflores • Blanco
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoBlanco.svg">**Descargar SVG**</a>
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-90A-Miraflores-Blanco.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/Logo-IEEEStudentBranch-Color-FondoBlanco.pdf">**Descargar PDF**</a>
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Blanco_2048x843.png">**Descargar PNG**</a> (2048 x 843 px)  
 
 <p align="center">
-	<img src="Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Blanco_2048x843.png" alt="Logo Aniversario 90 Años Campus Miraflores • Blanco" width="90%" />
 </p>
 
 
-### Logo: IEEE Student Branch • Color • Fondo Blanco Circular
+### Logo: Aniversario 90 Años Campus Miraflores • Negro
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-90A-Miraflores-Negro.svg">**Descargar SVG**</a>
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/Logo-IEEEStudentBranch-Color-FondoBlancoCircular.pdf">**Descargar PDF**</a>
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Negro_2048x843.png">**Descargar PNG**</a> (2048 x 843 px)  
 
 <p align="center">
-	<img src="Logos/IEEE-Student-Branch/PNG/Logo-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Negro_2048x843.png" alt="Logo Aniversario 90 Años Campus Miraflores • Negro" width="90%" />
 </p>
 
 
@@ -914,39 +909,7 @@ Los logotipos que contienen el texto "_UACh_" o "_Universidad Austral de Chile_"
 </p>
 
 
-### Logo: Aniversario 90 Años Campus Miraflores • Color
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-90A-Miraflores-Color.svg">**Descargar SVG**</a>
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Color_2048x843.png">**Descargar PNG**</a> (2048 x 843 px)  
-
-<p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Color_2048x843.png" alt="Logo Aniversario 90 Años Campus Miraflores • Color" width="90%" />
-</p>
-
-
-### Logo: Aniversario 90 Años Campus Miraflores • Blanco
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-90A-Miraflores-Blanco.svg">**Descargar SVG**</a>
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Blanco_2048x843.png">**Descargar PNG**</a> (2048 x 843 px)  
-
-<p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Blanco_2048x843.png" alt="Logo Aniversario 90 Años Campus Miraflores • Blanco" width="90%" />
-</p>
-
-
-### Logo: Aniversario 90 Años Campus Miraflores • Negro
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/SVG/Logo-90A-Miraflores-Negro.svg">**Descargar SVG**</a>
-
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Negro_2048x843.png">**Descargar PNG**</a> (2048 x 843 px)  
-
-<p align="center">
-	<img src="Logos/Facultad_Ciencias_Ingenieria/PNG/Logo-90A-Miraflores-Negro_2048x843.png" alt="Logo Aniversario 90 Años Campus Miraflores • Negro" width="90%" />
-</p>
-
-
+### Somos Ingeniería UACh
 
 ### Logo: Somos Ingeniería UACh • Color (Texto Blanco)
 
@@ -1436,6 +1399,366 @@ Página: [https://ingenieria.uach.cl/innoving2030/](https://ingenieria.uach.cl/i
 </p>
 
 
+## IEEE Student Branch
+
+Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.ieee.org/cl-uach/)
+
+Los presentes logos de la IEEE Student Branch de la Universidad Austral de Chile fueron diseñados por mí como una propuesta para reemplazar el logo anterior, que no incluía el isotipo (escudo) de la universidad.
+
+### Logo: IEEE Student Branch • Color • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Color-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Color-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Color-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Color-FondoTransparente_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Color • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Color-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Color-FondoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Color • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Negro • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Negro-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Negro-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Negro-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Negro-FondoTransparente_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Negro • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Negro-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Negro-FondoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Negro-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Negro-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Negro • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Negro-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Negro-FondoBlancoCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Negro-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Negro-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Blanco • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente_2048x2048.png" alt="Logo IEEE Student Branch • Blanco" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Blanco • Fondo Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Blanco • Fondo Negro Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Blanco • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoTransparente_2048x2048.png" alt="Logo IEEE Student Branch • Blanco" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Blanco • Fondo Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegro_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Blanco • Fondo Negro Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Blanco-FondoNegroCircular_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Grayscale • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Grayscale-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoTransparente_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoTransparente_2048x2048.png" alt="Logo IEEE Student Branch • Grayscale" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Grayscale • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Grayscale" width="90%" />
+</p>
+
+
+### Logo: IEEE Student Branch • Grayscale • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlancoCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoCentrado-IEEEStudentBranch-Grayscale-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Grayscale" width="90%" />
+</p>
+
+
+
+
+### Logo Horizontal: IEEE Student Branch • Color • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Color-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Color-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Color-FondoTransparente_2048x516.png">**Descargar PNG**</a> (2048 x 516 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Color-FondoTransparente_2048x516.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Color • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Color-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Color-FondoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Color-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Color • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Color-FondoBlancoCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Color" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Negro • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Negro-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Negro-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Negro-FondoTransparente_2048x516.png">**Descargar PNG**</a> (2048 x 516 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Negro-FondoTransparente_2048x516.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Negro • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Negro • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlancoCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Negro-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Blanco • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Blanco-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoTransparente_2048x516.png">**Descargar PNG**</a> (2048 x 516 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoTransparente_2048x516.png" alt="Logo IEEE Student Branch • Blanco" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Blanco • Fondo Negro
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegro_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegro_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Blanco • Fondo Negro Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegroCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegroCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegroCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Blanco-FondoNegroCircular_2048x2048.png" alt="Logo IEEE Student Branch • Negro" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Grayscale • Fondo Transparente
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoTransparente.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoTransparente.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoTransparente_2048x516.png">**Descargar PNG**</a> (2048 x 516 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoTransparente_2048x516.png" alt="Logo IEEE Student Branch • Grayscale" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Grayscale • Fondo Blanco
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlanco_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlanco_2048x2048.png" alt="Logo IEEE Student Branch • Grayscale" width="90%" />
+</p>
+
+
+### Logo Horizontal: IEEE Student Branch • Grayscale • Fondo Blanco Circular
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/SVG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlancoCircular.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PDF/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlancoCircular.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch/PNG/LogoHorizontal-IEEEStudentBranch-Grayscale-FondoBlancoCircular_2048x2048.png" alt="Logo IEEE Student Branch • Grayscale" width="90%" />
+</p>
+
+
+---
 ## Unidad de Gestión Ambiental
 
 Página: [https://uga.uach.cl/](https://uga.uach.cl/)
@@ -1444,7 +1767,7 @@ A continuación, se presentan los logos de la Unidad de Gestión Ambiental (UGA)
 
 ### Fuentes
 
-La UGA utiliza en su logotipo la fuente **Oswald **. 
+La UGA utiliza en su logotipo una variante modificada de la fuente **Oswald Bold**. 
 
 ### Logo: Unidad de Gestión Ambiental • Color • Fondo Transparente
 
