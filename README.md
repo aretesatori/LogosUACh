@@ -14,6 +14,24 @@ Mi propuesta ante esta problemática es que los logos presentes en este reposito
 
 **El propósito de este repositorio es facilitar el acceso a logos y gráficas institucionales en excelente calidad a toda la comunidad universitaria**.
 
+
+---
+## Estructura
+
+* Todos los logos están contenidos en el directorio `Logos/`, seguido de un subdirectorio con el nombre de la unidad o macrounidad. En este documento README se puede encontrar un [índice](#índice) que lleva a la vista previa de cada logo, los formatos disponibles para descarga y sus enlaces correspondientes.
+
+* Si desea descargar el repositorio completo, puede descargarlo como archivo comprimido (.zip) ingresando a la parte superior de la página del [repositorio](https://github.com/aretesatori/LogosUACh/). Como se muestra en la siguiente imagen.
+
+<p align="center">
+	<img src="img/download-repository.png" alt="Vista previa • Botón de descarga de repositorio" width="70%" />
+</p>
+
+* Para descargar el repositorio completo utilizando `git`, puede utilizar el siguiente comando en terminal.
+
+```
+git clone --depth 1 https://github.com/aretesatori/LogosUACh.git
+```
+
 ---
 ## Importante
 
