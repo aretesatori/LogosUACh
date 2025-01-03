@@ -132,7 +132,7 @@ Cordialmente,
 
 * [Facultad de Ciencias Forestales y Recursos Naturales](#facultad-de-ciencias-forestales-y-recursos-naturales)
 
-* [Facultad de Ciencias Juridicas y Sociales](#facultad-de-ciencias-juridicas-y-sociales)
+* [Facultad de Ciencias Jurídicas y Sociales](#facultad-de-ciencias-jurídicas-y-sociales)
 
 * [Facultad de Ciencias Veterinarias](#facultad-de-ciencias-veterinarias)
 
@@ -1448,7 +1448,7 @@ Página: [https://ciencias.uach.cl/](https://ciencias.uach.cl/)
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias/PNG/Logo-Facultad-de-Ciencias-TextoBlanco_4096x1225.png">**Descargar PNG**</a> (4096 x 1225 px)  
 
 <p align="center">
-	<img src="Logos/Facultad-de-Ciencias/PNG/Logo-Facultad-de-Ciencias-TextoBlanco_2048x613.png" alt="Logo Facultad de Ciencias • Color" width="90%" />
+	<img src="Logos/Facultad-de-Ciencias/PNG/Logo-Facultad-de-Ciencias-TextoBlanco_2048x613.png" alt="Logo Facultad de Ciencias • Color" width="100%" />
 </p>
 
 
@@ -1463,7 +1463,7 @@ Página: [https://ciencias.uach.cl/](https://ciencias.uach.cl/)
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias/PNG/Logo-Facultad-de-Ciencias-TextoNegro_4096x1225.png">**Descargar PNG**</a> (4096 x 1225 px)  
 
 <p align="center">
-	<img src="Logos/Facultad-de-Ciencias/PNG/Logo-Facultad-de-Ciencias-TextoNegro_2048x613.png" alt="Logo Facultad de Ciencias • Color" width="90%" />
+	<img src="Logos/Facultad-de-Ciencias/PNG/Logo-Facultad-de-Ciencias-TextoNegro_2048x613.png" alt="Logo Facultad de Ciencias • Color" width="100%" />
 </p>
 
 
@@ -1481,7 +1481,7 @@ Página: [https://ciencias.uach.cl/](https://ciencias.uach.cl/)
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Arquitectura-y-Artes/PNG/Logo-Facultad-de-Arquitectura-y-Artes-TextoBlanco_4096x1241.png">**Descargar PNG**</a> (4096 x 1241 px)  
 
 <p align="center">
-	<img src="Logos/Facultad-de-Arquitectura-y-Artes/PNG/Logo-Facultad-de-Arquitectura-y-Artes-TextoBlanco_2048x621.png" alt="Logo Facultad de Arquitectura y Artes • Color" width="90%" />
+	<img src="Logos/Facultad-de-Arquitectura-y-Artes/PNG/Logo-Facultad-de-Arquitectura-y-Artes-TextoBlanco_2048x621.png" alt="Logo Facultad de Arquitectura y Artes • Color" width="100%" />
 </p>
 
 
@@ -1496,7 +1496,7 @@ Página: [https://ciencias.uach.cl/](https://ciencias.uach.cl/)
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Arquitectura-y-Artes/PNG/Logo-Facultad-de-Arquitectura-y-Artes-TextoNegro_4096x1241.png">**Descargar PNG**</a> (4096 x 1241 px)  
 
 <p align="center">
-	<img src="Logos/Facultad-de-Arquitectura-y-Artes/PNG/Logo-Facultad-de-Arquitectura-y-Artes-TextoNegro_2048x621.png" alt="Logo Facultad de Arquitectura y Artes • Color" width="90%" />
+	<img src="Logos/Facultad-de-Arquitectura-y-Artes/PNG/Logo-Facultad-de-Arquitectura-y-Artes-TextoNegro_2048x621.png" alt="Logo Facultad de Arquitectura y Artes • Color" width="100%" />
 </p>
 
 ---
@@ -1510,18 +1510,61 @@ Página: [https://ciencias.uach.cl/](https://ciencias.uach.cl/)
 
 * <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoBlanco_2048x518.png">**Descargar PNG**</a> (2048 x 518 px)  
 
-* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoBlanco_2048x1036.png">**Descargar PNG**</a> (4096 x 1036 px)  
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoBlanco_4096x1036.png">**Descargar PNG**</a> (4096 x 1036 px)  
 
 <p align="center">
-	<img src="Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoBlanco_2048x518.png" alt="Logo Facultad de Ciencias Económicas y Administrativas • Color" width="90%" />
+	<img src="Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoBlanco_2048x518.png" alt="Logo Facultad de Ciencias Económicas y Administrativas • Color" width="100%" />
+</p>
+
+
+### Logo: Facultad de Ciencias Económicas y Administrativas • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/SVG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PDF/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoNegro_2048x518.png">**Descargar PNG**</a> (2048 x 518 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoNegro_4096x1036.png">**Descargar PNG**</a> (4096 x 1036 px)  
+
+<p align="center">
+	<img src="Logos/Facultad-de-Ciencias-Economicas-y-Administrativas/PNG/Logo-Facultad-de-Ciencias-Economicas-y-Administrativas-TextoNegro_2048x518.png" alt="Logo Facultad de Ciencias Económicas y Administrativas • Color" width="100%" />
 </p>
 
 ---
 ## Facultad de Ciencias Forestales y Recursos Naturales
 
+### Logo: Facultad de Ciencias Forestales y Recursos Naturales • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/SVG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PDF/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PNG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoBlanco_2048x501.png">**Descargar PNG**</a> (2048 x 501 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PNG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoBlanco_4096x1002.png">**Descargar PNG**</a> (4096 x 1002 px)  
+
+<p align="center">
+	<img src="Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PNG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoBlanco_2048x501.png" alt="Logo Facultad de Ciencias Forestales y Recursos Naturales • Color" width="100%" />
+</p>
+
+
+### Logo: Facultad de Ciencias Forestales y Recursos Naturales • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/SVG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PDF/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PNG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoNegro_2048x501.png">**Descargar PNG**</a> (2048 x 501 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PNG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoNegro_4096x1002.png">**Descargar PNG**</a> (4096 x 1002 px)  
+
+<p align="center">
+	<img src="Logos/Facultad-de-Ciencias-Forestales-y-Recursos-Naturales/PNG/Logo-Facultad-de-Ciencias-Forestales-y-Recursos-Naturales-TextoNegro_2048x501.png" alt="Logo Facultad de Ciencias Forestales y Recursos Naturales • Color" width="100%" />
+</p>
 
 ---
-## Facultad de Ciencias Juridicas y Sociales
+## Facultad de Ciencias Jurídicas y Sociales
 
 
 ---
@@ -1584,6 +1627,34 @@ La UGA utiliza en su logotipo una variante modificada de la fuente **Oswald Bold
 </p>
 
 
+## Centro de Educación Continua
+
+### Logo: Centro de Educación Continua • Color (Texto Blanco)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Centro-de-Educacion-Continua/SVG/Logo-CentroEducacionContinuaUACh-Color-TextoBlanco.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Centro-de-Educacion-Continua/PDF/Logo-CentroEducacionContinuaUACh-Color-TextoBlanco.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Centro-de-Educacion-Continua/PNG/Logo-CentroEducacionContinuaUACh-Color-TextoBlanco_2048x871.png">**Descargar PNG**</a> (2048 x 871 px)  
+
+<p align="center">
+	<img src="Logos/Centro-de-Educacion-Continua/PNG/Logo-CentroEducacionContinuaUACh-Color-TextoBlanco_2048x871.png" alt="Logo Centro de Educación Continua • Color" width="85%" />
+</p>
+
+### Logo: Centro de Educación Continua • Color (Texto Negro)
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Centro-de-Educacion-Continua/SVG/Logo-CentroEducacionContinuaUACh-Color-TextoNegro.svg">**Descargar SVG**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Centro-de-Educacion-Continua/PDF/Logo-CentroEducacionContinuaUACh-Color-TextoNegro.pdf">**Descargar PDF**</a>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/LogosUACh/main/Logos/Centro-de-Educacion-Continua/PNG/Logo-CentroEducacionContinuaUACh-Color-TextoNegro_2048x871.png">**Descargar PNG**</a> (2048 x 871 px)  
+
+<p align="center">
+	<img src="Logos/Centro-de-Educacion-Continua/PNG/Logo-CentroEducacionContinuaUACh-Color-TextoNegro_2048x871.png" alt="Logo Centro de Educación Continua • Color" width="85%" />
+</p>
+
+
+---
 ## IEEE Student Branch
 
 Página: [https://studentbranches.ieee.org/cl-uach/](https://studentbranches.ieee.org/cl-uach/)
@@ -1950,11 +2021,13 @@ Los presentes logos de la IEEE Student Branch de la Universidad Austral de Chile
 
 > Gráfica Institucional, Rectoría (https://www.uach.cl/organizacion/rectoria/direccion-de-comunicaciones/grafica-institucional)
 
+> Ingeniería UACh (https://assets.adobe.com/public/9d9c75aa-8ed8-4789-7871-72501b6f35b5)
+
+> Documentos - Facultad de Arquitectura y Artes (https://arquitectura-artes.uach.cl/documentos/)
+
 > Humanidades UACh (https://www.flickr.com/photos/194257994@N05/)
 
 > Documentos (https://www.icml.uach.cl/documentos/)
-
-> Ingeniería UACh (https://assets.adobe.com/public/9d9c75aa-8ed8-4789-7871-72501b6f35b5)
 
 > Derecho UACh - Imagen Corporativa (https://derecho.uach.cl/index.php/vinculacion-con-el-medio/imagencorporativa.html)
 
